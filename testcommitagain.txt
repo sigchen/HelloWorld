@@ -1,0 +1,2 @@
+I want to know what will happen if commit without commit message.
+But just now I failed.
